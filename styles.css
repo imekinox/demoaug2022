@@ -12,3 +12,9 @@
 p {
   color:plum;
 }
+
+div p {
+
+  color:aqua;
+  align-items: center;
+}
