@@ -1,6 +1,11 @@
 .feature {
     font-weight: 700;
 }
+
+.test {
+  background-color: blue;
+}
+
 .image{
     width: 100px;
 }
