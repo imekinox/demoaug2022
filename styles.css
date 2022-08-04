@@ -1,9 +1,18 @@
 .feature {
     font-weight: 700;
 }
-p {
 
+p {
+    color:plum;
     border-style: groove;
     font-size: medium;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.test {
+  background-color: blue;
+}
+
+.image{
+    width: 100px;
 }
